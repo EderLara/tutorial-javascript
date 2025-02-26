@@ -452,3 +452,4 @@ function agregarTexto(){
     const texto = 'Muchachos buenas noches, mi nombre es Eder Lara y soy el profesor de la clase de programación';
     saludo.innerHTML = texto; // Cambiamos el contenido de la etiqueta saludo
 }
+
