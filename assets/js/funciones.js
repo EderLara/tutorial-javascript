@@ -1,6 +1,9 @@
 const botonesDiv = document.getElementById('botones');
 const resultadoDiv = document.getElementById('resultado');
 
+
+document.body.style.width = "100%";
+
 resultadoDiv.innerHTML = "Empezamos Funciones hoy!";
 botonesDiv.innerHTML = `
     <button class="btn btn-primary" onclick="saludar()">Saludar</button>
